@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@Linkdin](https://www.linkedin.com/in/laxmi-narayan-pandey/)
+Deep Anik - [@Linkdin](https://www.linkedin.com/in/laxmi-narayan-pandey/)
 
 Project Link: [https://github.com/deepanik/netflix](https://github.com/deepanik/netflix)
 
