@@ -2,6 +2,15 @@
 
 A modern, responsive Netflix clone built with React, TypeScript, and Vite. This project replicates the core features and sleek design of Netflix's streaming platform.
 
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![React Router](https://img.shields.io/badge/React_Router-6-CA4245?style=flat-square&logo=react-router)](https://reactrouter.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel)](https://netflix-deepanik.vercel.app/)
+
 ![Netflix Clone](public/preview.png)
 
 ## ✨ Features
