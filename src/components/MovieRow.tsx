@@ -81,7 +81,7 @@ const MovieRow = ({ title, endpoint, onMovieClick }: MovieRowProps) => {
     sliderRef.current.scrollLeft = scrollLeft - walk;
   };
 
-  const handleMouseUp = (e: React.MouseEvent<HTMLDivElement>, movie: Movie) => {
+  const handleMouseUp = (_e: React.MouseEvent<HTMLDivElement>, movie: Movie) => {
     setIsDragging(false);
     if (Date.now() - dragStartTime < 150 && onMovieClick) {
       onMovieClick(movie);

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { BellIcon, MagnifyingGlassIcon, Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
-import { getAvatar, DEFAULT_AVATAR } from '../utils/avatarUtils';
+import { DEFAULT_AVATAR } from '../utils/avatarUtils';
 
 const PROFILE_NAMES = ['Deep'];
 
